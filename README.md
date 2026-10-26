@@ -135,3 +135,5 @@ Real-world deployment would require field-validated measurements, calibrated ele
 ## About
 
 VELOR is an electronics and geospatial engineering project exploring how embedded sensing, wireless communication, satellite observations, and terrain modelling can work together in a flood-monitoring workflow.
+
+
