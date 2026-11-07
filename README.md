@@ -25,7 +25,7 @@ The idea behind VELOR is simple: monitoring water levels is useful, but understa
 | Backend                | Python, FastAPI, Uvicorn                 |
 | Geospatial processing  | Rasterio, NumPy, PyProj                  |
 | Gauge controller       | ESP32                                    |
-| Wireless communication | HC-12 modules — experimental integration |
+| Wireless communication | HC-12 modules — experimental integration to fetch data  |
 | Terrain data           | Digital Elevation Model (DEM)            |
 | Satellite observations | OPERA DSWx-S1                            |
 
